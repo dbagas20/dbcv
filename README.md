@@ -1,2 +1,0 @@
-# dbcv
-My personal website
